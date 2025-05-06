@@ -1,0 +1,15 @@
+MenuBotones.png
+size:2048,256
+repeat:none
+RankingHover
+bounds:304,2,300,125
+RankingNormal
+bounds:606,129,300,125
+SalirHover
+bounds:908,129,300,125
+SalirNormal
+bounds:304,129,300,125
+JugarHover
+bounds:606,2,300,125
+JugarNormal
+bounds:2,129,300,125
