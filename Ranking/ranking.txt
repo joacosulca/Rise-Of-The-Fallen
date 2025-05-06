@@ -1,0 +1,1710 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: Incognito Tiempo: 77.682724
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: sdsd Tiempo: 82.93232
+Jugador: Incognito Tiempo: 90.28186
+Jugador: Incognito Tiempo: 57.84914
