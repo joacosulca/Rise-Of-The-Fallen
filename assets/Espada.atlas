@@ -1,0 +1,15 @@
+espada.png
+size:512,128
+repeat:none
+Espada1
+bounds:193,48,77,77
+Espada2
+bounds:2,56,88,69
+Espada3
+bounds:92,66,95,59
+Espada4
+bounds:2,2,95,52
+Espada5
+bounds:99,9,92,55
+Espada6
+bounds:272,61,85,64

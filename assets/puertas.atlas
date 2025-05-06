@@ -1,0 +1,9 @@
+Puerta.png
+size:512,128
+repeat:none
+cielo
+bounds:119,2,115,74
+infierno
+bounds:236,2,115,74
+tierra
+bounds:2,2,115,74

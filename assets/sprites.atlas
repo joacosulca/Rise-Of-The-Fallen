@@ -1,0 +1,13 @@
+sprites.png
+size:256,128
+repeat:none
+arco
+bounds:170,84,14,32
+arcoTenzado
+bounds:2,2,24,32
+caballero
+bounds:2,36,60,80
+espada
+bounds:64,39,62,77
+zombie
+bounds:128,39,40,77
