@@ -1,0 +1,9 @@
+Bloques.png
+size:256,64
+repeat:none
+Bloque_cielo
+bounds:98,2,46,47
+Bloque_infierno
+bounds:50,2,46,47
+Bloque_tierra
+bounds:2,2,46,47
